@@ -122,3 +122,24 @@ The request body needs to be in JSON format and include the following properties
  ```
 
 The response body will contain the access token. The access token is valid for 7 days.
+
+
+
+# Simple Grocery Store API
+
+The API is available at `https://simple-grocery-store-api.glitch.me`
+
+## Endpoints
+
+- [Status](#Status)
+- [Products](#Products)
+  - [Get all products](#Get-all-products)
+  - [Get a product](#Get-a-product)
+- [Cart](#Cart)
+  - [Get a cart](#Get-a-cart)
+  - [Get cart items](#Get-cart-items)
+  - [Create a new cart](#Create-a-new-cart)
+  - [Add an item to cart](#Add-an-item-to-cart)
+  - [Modify an item in the cart](#Modify-an-item-in-the-cart)
+ 
+    
